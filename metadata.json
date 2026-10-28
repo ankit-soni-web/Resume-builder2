@@ -1,0 +1,6 @@
+{
+  "name": "ResumeCraft",
+  "description": "Professional Resume Builder & Editor with 8 distinct templates, real-time live preview, ATS analysis, AI-assisted writing, and PDF export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
